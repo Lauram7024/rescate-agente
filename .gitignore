@@ -1,0 +1,5 @@
+__pycache__/
+.env
+.lb/
+leaderboard.html
+leaderboard.json
