@@ -1,0 +1,5 @@
+[
+  {"id": "g1", "input": "¿Cuántos días de vacaciones tengo?", "expected_route": "rag", "categoria": "normal"},
+  {"id": "g2", "input": "Crea un ticket, no me funciona la VPN", "expected_route": "tickets", "categoria": "normal"},
+  {"id": "g3", "input": "¿En qué área trabaja el usuario 7?", "expected_route": "usuarios", "categoria": "normal"}
+]
